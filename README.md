@@ -37,10 +37,8 @@ The Work Day Scheduler is a web application that allows you to plan and organize
 
 ## Demo
 
+https://wei18889.github.io/Work-Day-Organizer/
+
 ## Screenshots
 
 ![Alt text](<image/Screenshot 2023-08-03 at 10.53.34 PM.png>)!
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
